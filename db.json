@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Om Sweets",
+      "email": "omsweets@gmail.com",
+      "contact": "9867452356",
+      "address": "Sec - 14, Gurugram , HR",
+      "services": "Food, Sanacks, Tea & Cofee"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Akhil",
+      "email": "akhi1986@hotmail.com",
+      "contact": "7007761116",
+      "password": "abc@123"
+    },
+    {
+      "name": "tyu",
+      "email": "asthafilms@gmail.com",
+      "contact": "89678",
+      "password": "abc",
+      "id": 2
+    },
+    {
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "contact": "7007761116",
+      "password": "abc",
+      "id": 3
+    },
+    {
+      "name": "Surendra",
+      "email": "surendra@gmail.com",
+      "contact": "9988776655",
+      "password": "abc",
+      "id": 4
+    },
+    {
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "contact": "77777777777",
+      "password": "abc",
+      "id": 5
+    }
+  ]
+}
